@@ -27,7 +27,9 @@ o HA Display 6-Axis( ACC, Gyro) Card Sample.
         - entity: sensor.accz
       hours_to_show: 24
       refresh_interval: 10
-      title: Accelator(가속도)
+      title: Accelator(가속도
+      
  o HA Display Board.
-   ![ESP32-GPS-MPU01](https://github.com/user-attachments/assets/625872dd-e8fd-4d84-8021-16121297c2b4)
-Created by: MOONDORI (moonbj90@gmail.com). Limited. 2024.10-23
+   ![ESP32-GPS-MPU01](https://github.com/user-attachments/assets/a0c14b59-d94d-41a3-8dd5-3271cc7f7e96)
+   
+Created by: MOONDORI(moonbj90@gmail.com). Limited. 2024.10-23
