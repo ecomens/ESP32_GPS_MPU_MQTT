@@ -10,6 +10,7 @@ o Software
  - Home Assistant + MQTT + Plotly Graph Card
 
 o *** consider the Pin map set in "sensors_pins.h"
+
 o ESP-HA(Home Assistant) MQTT Payroad Format.
   ![ESP32-HA-MQTT01](https://github.com/user-attachments/assets/ad0f2012-a86f-4eeb-bd34-b48444db5d4a)
 
