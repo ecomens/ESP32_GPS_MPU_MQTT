@@ -3,7 +3,7 @@ o Hardware
  - ESP32 Woorm Devkit
  - NEO 6M GPS Sensor
  - MPU 6050 Acc/Gyro 6-axis Sensor
- - 3D Printed Test Case Box supported my son is Jake(JH.Moon)
+ - 3D Printed Test Case Box supported Jake(JH.Moon)
 
 o Software
  - Arduino IDE : ESP32 upload firmware
